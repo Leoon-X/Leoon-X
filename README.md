@@ -2,10 +2,10 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
   <p width="45%">Hi, Lets Chat!
   <ul>
-    <li>💬 I enjoy playing <b>Chess</b></li>
-    <li>💬 Based near <b>The Moon</b></li>
-    <li>💬 I enjoy making <b>Music</b></li>
-    <li>💬 I do <b>Martial arts</b></li>
+    <li>💬 I enjoy playing <b>Chess.</b></li>
+    <li>💬 Based near <b>The Moon.</b></li>
+    <li>💬 I enjoy making <b>Music.</b></li>
+    <li>💬 I do <b>Martial arts.</b></li>
     <li>💬 Ask me something! <b>Happy to help.</b></li>
     <li>💬 Discord: <b>Leoon#8825</b>
   </ul>
