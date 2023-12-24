@@ -7,7 +7,7 @@
     <li>💬 I enjoy making <b>Music.</b></li>
     <li>💬 I do <b>Martial arts.</b></li>
     <li>💬 Ask me something! <b>Happy to help.</b></li>
-    <li>💬 Discord: <b>Leoon#8825</b>
+    <li>💬 Discord: <b>imlind0</b>
   </ul>
 Passionate Programmer, I am always looking for new challenges.
 <br>Currently eating cookies...</p>
