@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br>🅷🅴🅻🅻🅾, 🅸'🅼 🅻🅴🅾🅽<br>【Ｔｈｅ　Ｓｅｘｙ】【Ｄｅｖｅｌｏｐｅｒ】</h1><br>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br>🅷🅴🅻🅻🅾, 🅸'🅼 🅻🅴🅾🅽<br>【Ｔｈｅ　Ｓｅｘｙ】【Ｄｅｖｅｌｏｐｅｒ】</h1><br>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
   <p width="45%"><b>Hi, Lets Chat!</b>
   <ul>
